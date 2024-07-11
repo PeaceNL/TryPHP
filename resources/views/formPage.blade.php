@@ -38,7 +38,7 @@
                         }
                     },
                     error: function(xhr, status, error) {
-                        $('#message').text("ZALUPA");
+                        $('#message').text("Very bad");
                     }
                 });
             });
